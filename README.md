@@ -336,6 +336,6 @@ Every test build, and which ones became releases.
 ---
 
 ## Credits
-Infinity Blade by **Chair Entertainment** and **Epic Games**. Built on the fan **Community Patch 2.5** and the fan-made **HD texture pack**, plus the PC version's original textures. Restoration work by Fin.
+Infinity Blade by **Chair Entertainment** and **Epic Games**. Built on the fan **Community Patch 2.5** and the fan-made **HD texture pack**, plus the PC version's original textures. Restoration work by Second Light.
 
 *This is a personal, non-commercial restoration project. Infinity Blade and all its assets belong to their respective owners.*
